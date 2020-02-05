@@ -1,0 +1,66 @@
+.jumbotron
+{
+  /*  background: #7b4397;  /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(to bottom, #dc2430, #7b4397);  /* Chrome 10-25, Safari 5.1-6 */
+  /*  background: linear-gradient(to bottom, #dc2430, #7b4397); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin-top: 40px;  
+  height:500px; 
+  background-image: url(white.jpg);
+  background-position: center;
+  background-size:cover;  
+  /*background-color: white;  */
+}   
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px;
+}
+.lead2
+{
+    border:0.2px solid black;
+    width:50%;
+    text-align: left;
+    margin-left: 0;
+
+}
+
+.transparent
+{
+    background-color: transparent;
+}
+.container
+{
+    margin-top: 20px;
+}
+#uni
+{
+background-image: url('jumbo.jpg');
+}
+.tushti
+{
+    margin-bottom: 10px;
+}
+.card-deck
+{
+    margin-top: 100px;
+    
+}
+
+#blogdetail
+{
+    background-image: url('card1.jpg');
+    padding-top: 0px;
+    padding-bottom:0px;
+    background-size: cover;
+    background: contain;
+    width: 100%; /* make sure to define width to fill container */
+    height:700px
+}
+#card
+{
+    border: transparent;
+}
+
